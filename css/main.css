@@ -245,9 +245,14 @@ article {
 }
 
 #social {
+	width: 100%
+		
+}
+
+#social a {
 	display: block;
 	align-items: center;
-	
+		
 }
 
 
