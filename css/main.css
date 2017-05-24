@@ -234,7 +234,7 @@ color: rgba(11, 11, 10, 0.4);
 
 
 article {
-	float: left; 
+	text-align: center; 
 	margin: auto;
 	font-family: 'Nixie One', cursive;
 	font-weight: 300;
