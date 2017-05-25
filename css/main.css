@@ -187,8 +187,8 @@ a:hover{
 				margin: 0px;
 				margin-top: 0px;
 				padding-top: 0px;
-				font-family: 'Roboto', sans-serif;
-					font-size: 35px;
+				font-family: 'Pacifico', cursive;;
+					font-size: 40px;
 				font-weight: 300px;
 				color: rgb(255, 255, 255);
 			}
@@ -196,7 +196,7 @@ a:hover{
 h2 {
 	align-items: center;
 	margin: 0px;
-	font-family: 'Pacifico', cursive;
+	font-family: 'Roboto', sans-serif;
 		font-size: 15px;
 	font-weight: 400px;
 	color: rgb(255, 255, 255);
