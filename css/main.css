@@ -234,7 +234,7 @@ color: rgba(11, 11, 10, 0.4);
 
 
 article {
-	text-align: center; 
+	float: left;
 	margin: auto;
 	font-family: 'Nixie One', cursive;
 	font-weight: 300;
@@ -250,10 +250,9 @@ article {
 }
 
 #social a img {
-	display: block;
 	align-items: center;
 	opacity: .3;
-	padding: 5px;
+	padding: 8px;
 		
 }
 
